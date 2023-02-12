@@ -1,0 +1,45 @@
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.deps.json
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.runtimeconfig.json
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.runtimeconfig.dev.json
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.dll
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\ref\HospitalRS.DAL.dll
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.pdb
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.csproj.AssemblyReference.cache
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.AssemblyInfoInputs.cache
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.AssemblyInfo.cs
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.dll
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\ref\HospitalRS.DAL.dll
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.pdb
+C:\Users\macbook\source\repos\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.genruntimeconfig.cache
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.deps.json
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.runtimeconfig.json
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.runtimeconfig.dev.json
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.dll
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\bin\Debug\net5.0\ref\HospitalRS.DAL.dll
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.pdb
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.csproj.AssemblyReference.cache
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.AssemblyInfoInputs.cache
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.AssemblyInfo.cs
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.dll
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\obj\Debug\net5.0\ref\HospitalRS.DAL.dll
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.pdb
+C:\Users\macbook\Desktop\HospitalRS.WebAPI - Copy\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.genruntimeconfig.cache
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.deps.json
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.runtimeconfig.json
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.runtimeconfig.dev.json
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.dll
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\ref\HospitalRS.DAL.dll
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\bin\Debug\net5.0\HospitalRS.DAL.pdb
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.csproj.AssemblyReference.cache
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.AssemblyInfoInputs.cache
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.AssemblyInfo.cs
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.dll
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\ref\HospitalRS.DAL.dll
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.pdb
+C:\Users\macbook\Desktop\HospitalRS.WebAPI\HospitalRS.DAL\obj\Debug\net5.0\HospitalRS.DAL.genruntimeconfig.cache
